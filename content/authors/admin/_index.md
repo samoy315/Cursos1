@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: Stanford University
   url: ""
-role: Python Instructor
+role: Instructor Modelos
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,7 +33,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Oscar Silva
 user_groups:
 - Teachers
 ---

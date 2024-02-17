@@ -1,6 +1,4 @@
 ---
-authors:
-- 吳恩達
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
@@ -15,6 +13,7 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
+highlight_name: false
 interests:
 - Artificial Intelligence
 - Computational Linguistics
@@ -22,7 +21,7 @@ interests:
 organizations:
 - name: Stanford University
   url: ""
-role: Instructor Fotogrametria
+role: Instructor SIG y R
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,8 +32,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-superuser: false
-title: Jose Caicedo
+superuser: true
+title: Victor Sevilla
 user_groups:
 - Teachers
 ---
