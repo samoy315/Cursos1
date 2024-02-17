@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Academia de SIG y Modelos Agroambientales
-hero_media: teacher.png
+hero_media: mapa5.png
 design:
   background:
     gradient_angle: 0
