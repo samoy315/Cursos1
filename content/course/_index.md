@@ -9,4 +9,4 @@ type: page
 view: compact
 ---
 
-Explore our courses below and expand your knowledge!
+¡Explore nuestros cursos a continuación y amplíe sus conocimientos!
