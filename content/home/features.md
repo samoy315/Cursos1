@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 title: Caracteristicas
-subtitle: ✨ Teach _anything_ with
+subtitle: Herramientas de aprendizaje
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
